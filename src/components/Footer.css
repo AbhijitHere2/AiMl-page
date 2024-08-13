@@ -1,0 +1,78 @@
+.footer {
+   max-width: 930px;
+    height: 418px;
+    
+    text-align: center;
+  }
+  
+  .newsletter {
+    margin-bottom: 20px;
+    text-align: right;
+  }
+  
+  .newsletter h2 {
+    text-align: left;
+    font-size: 1.9em;
+  }
+  
+  .newsletter p {
+    margin-bottom: 10px;
+    font-size: 19px;
+  }
+  
+ 
+  
+  .newsletter button {
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .footer-info {
+    display: flex;
+    gap: 111px;
+    margin-top: 30px;
+    margin-left: 10px;
+    
+  }
+  
+  .company-info, .support {
+    text-align: left;
+    
+  }
+  
+  .company-info ul, .support ul {
+    list-style: none;
+    padding: 0px;
+
+  }
+  
+  .company-info li, .support li {
+    margin: 10px 0;
+  }
+  
+  .company-info a, .support a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer-bottom {
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    
+  }
+  .newsletter input {
+    padding: 10px;
+    width: 226px;
+    height: 32px;
+
+    }
+    .border{
+      color: rgb(10, 9, 9);
+    }
+  
