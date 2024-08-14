@@ -19,7 +19,7 @@ const AiMlFAQ = () => {
           {
             question: "What are the prerequisites for this workshop?",
             answer:
-              "foundational understanding of programming, particularly in Python, is crucial. Basic knowledge of mathematics, including linear algebra, calculus, and statistics, will be beneficial for grasping core concepts in machine learning and AI.",
+              "Before starting the AI/ML workshop, having a foundational understanding of programming, particularly in Python, is crucial. Basic knowledge of mathematics, including linear algebra, calculus, and statistics, will be beneficial for grasping core concepts in machine learning and AI.",
           },
           {
             question: "Is this workshop suitable for beginners?",
